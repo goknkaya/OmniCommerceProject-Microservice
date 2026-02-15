@@ -10,11 +10,11 @@ backend/
   * services/
     * OrderService
     * PaymentService
-    - CatalogService
+    * CatalogService
 frontend/
-  └── omni-ui (WIP)
+  * omni-ui (WIP)
 infra/
-  └── docker-compose.yml
+  * docker-compose.yml
 
 ## Service Communication
 
