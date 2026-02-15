@@ -8,21 +8,13 @@ This project demonstrates event-driven communication between services using mess
 backend/
 
   ├── OmniCommerce.Contracts
-  
   ├── services/
-  
         ├── OrderService
-        
         └── PaymentService
-        
         └── CatalogService
-        
 frontend/
-
   └── omni-ui (WIP)
-  
 infra/
-
   └── docker-compose.yml
 
 ## Service Communication
@@ -33,6 +25,7 @@ infra/
 
 ## 🚀 Tech Stack
 
+#### Backend
 * .NET 8
 * ASP.NET Core Web API
 * MassTransit
@@ -41,7 +34,9 @@ infra/
 * Entity Framework Core
 * Docker & Docker Compose
 * Swagger / OpenAPI
+#### Frontend
 * React
+* TypeScript
 
 ## 🧠 What This Project Demonstrates
 
