@@ -6,16 +6,14 @@ This project demonstrates event-driven communication between services using mess
 
 ## 🏗 Architecture
 
-'''backend/
+backend/
 ├── OmniCommerce.Contracts
 └── services/
     ├── OrderService
     ├── PaymentService
     └── CatalogService
-
 frontend/
 └── omni-ui (React)
-
 infra/
 └── docker-compose.yml
 
