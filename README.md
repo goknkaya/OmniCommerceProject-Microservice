@@ -5,8 +5,8 @@ Microservice-based e-commerce backend built with .NET 8, MassTransit + RabbitMQ,
 This project demonstrates event-driven communication between services using message brokers and modern backend practices.
 
 ## 🏗 Architecture
-'''text
-backend/
+
+'''backend/
 ├── OmniCommerce.Contracts
 └── services/
     ├── OrderService
