@@ -1,6 +1,6 @@
 # 🔥 OmniCommerceProject – Microservice Architecture
 
-Microservice-based e-commerce backend built with .NET 8, MassTransit + RabbitMQ, PostgreSQL, and Docker.
+Microservice-based e-commerce backend built with .NET 8, MassTransit + RabbitMQ, PostgreSQL, Docker and React.
 
 This project demonstrates event-driven communication between services using message brokers and modern backend practices.
 
@@ -32,6 +32,7 @@ infra/
 * Entity Framework Core
 * Docker & Docker Compose
 * Swagger / OpenAPI
+* React
 
 ## 🧠 What This Project Demonstrates
 
