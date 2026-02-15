@@ -6,12 +6,11 @@ This project demonstrates event-driven communication between services using mess
 
 ## 🏗 Architecture
 backend/
-
-  ├── OmniCommerce.Contracts
-  ├── services/
-        ├── OrderService
-        └── PaymentService
-        └── CatalogService
+- OmniCommerce.Contracts
+  - services/
+    - OrderService
+    - PaymentService
+    - CatalogService
 frontend/
   └── omni-ui (WIP)
 infra/
