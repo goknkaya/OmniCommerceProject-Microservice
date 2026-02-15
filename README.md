@@ -10,6 +10,7 @@ backend/
   ├── services/
         ├── OrderService
         └── PaymentService
+        └── CatalogService
 frontend/
   └── omni-ui (WIP)
 infra/
@@ -52,8 +53,9 @@ Run OrderService and PaymentService separately.
 
 Swagger endpoints:
 
-* OrderService → http://localhost:xxxx/swagger
+* OrderService → http://localhost:5282/swagger
 * PaymentService → http://localhost:5018/swagger
+* CatalogService → http://localhost:5071/swagger
 
 ## 📸 Screenshots
 
