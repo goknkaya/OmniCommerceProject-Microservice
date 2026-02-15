@@ -66,9 +66,16 @@ Swagger endpoints:
 
 ## 📸 Screenshots
 
+#### OrderService
 ![OrderService](screenshots/01-order-created.png)
+
+#### PaymentService
 ![PaymentService](screenshots/02-payment-list.png)
+
+#### CatalogService
 ![CatalogService](screenshots/03-catalog-received.png)
+
+#### React Dashboard
 ![React](screenshots/04-dashboard.png)
 
 ## 📌 Future Improvements
