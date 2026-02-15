@@ -11,8 +11,10 @@ backend/
     * OrderService
     * PaymentService
     * CatalogService
+      
 frontend/
   * omni-ui (WIP)
+
 infra/
   * docker-compose.yml
 
