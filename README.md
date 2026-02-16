@@ -36,8 +36,6 @@ infra/
 
 ## 🚀 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Backend
 - .NET 8
 - ASP.NET Core Web API
