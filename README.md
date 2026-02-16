@@ -74,7 +74,8 @@ Swagger endpoints:
 #### FrontEnd
 ![React](screenshots/04-dashboard.png)
 
-#### Video Linki
+#### Video Link
+https://www.youtube.com/watch?v=2AfcbX8YArw
 
 ## 📌 Future Improvements
 
