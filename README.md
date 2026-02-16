@@ -1,5 +1,14 @@
 # 🔥 OmniCommerceProject – Microservice Architecture
 
+## 🚀 What This Project Demonstrates
+
+- Event-driven microservice communication
+- Asynchronous messaging with RabbitMQ
+- Clean separation of services
+- Independent service databases
+- REST + Message Broker hybrid architecture
+- Real-time reporting dashboard
+
 Microservice-based e-commerce backend built with .NET 8, MassTransit + RabbitMQ, PostgreSQL, Docker and React.
 
 This project demonstrates event-driven communication between services using message brokers and modern backend practices.
@@ -27,18 +36,27 @@ infra/
 
 ## 🚀 Tech Stack
 
-#### Backend
-* .NET 8
-* ASP.NET Core Web API
-* MassTransit
-* RabbitMQ
-* PostgreSQL
-* Entity Framework Core
-* Docker & Docker Compose
-* Swagger / OpenAPI
-#### Frontend
-* React
-* TypeScript
+## 🛠 Tech Stack
+
+### Backend
+- .NET 8
+- ASP.NET Core Web API
+- MassTransit
+- RabbitMQ
+- PostgreSQL
+- Docker
+
+### Frontend
+- React (Vite)
+- REST API integration
+
+## 🔄 End-to-End Flow
+
+1. OrderService receives order via REST API
+2. Publishes OrderCreated event to RabbitMQ
+3. PaymentService consumes event and processes payment
+4. CatalogService consumes event and updates reporting data
+5. React dashboard displays aggregated results
 
 ## 🧠 What This Project Demonstrates
 
