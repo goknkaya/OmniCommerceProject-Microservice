@@ -75,7 +75,7 @@ Swagger endpoints:
 ![React](screenshots/04-dashboard.png)
 
 #### Video Link
-https://www.youtube.com/watch?v=2AfcbX8YArw
+[![Watch the demo](https://img.youtube.com/watch?v=2AfcbX8YArw/0.jpg)](https://www.youtube.com/watch?v=2AfcbX8YArw)
 
 ## 📌 Future Improvements
 
